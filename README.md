@@ -8,15 +8,6 @@
   <p>👨‍💻 All of my projects are available at <a href="https://github.com/teodor1006" target="_blank">https://github.com/teodor1006</a></p>
 </div>
 
-<div>
-  <h3>Connect with me:</h3>
-  <p>
-    <a href="https://linkedin.com/in/teodor-slaveykov" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teodor-slaveykov" height="30" width="40" />
-    </a>
-  </p>
-</div>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- Existing tools -->
@@ -33,7 +24,6 @@
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="images/GitHub-Actions-icon.svg" alt="github-actions" width="40" height="40"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teodor1006&show_icons=true&locale=en&layout=compact" alt="teodor1006" /></p>
