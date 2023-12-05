@@ -26,7 +26,7 @@
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Actions-icon.svg" alt="github-actions" width="40" height="40"/></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="images/GitHub-Actions-icon.svg" alt="github-actions" width="40" height="40"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teodor1006&show_icons=true&locale=en&layout=compact" alt="teodor1006" /></p>
