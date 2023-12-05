@@ -1,14 +1,21 @@
-<h1 align="center">Hi 👋, I'm Teodor</h1>
-<h3 align="center">A passionate DevOps/AWS Cloud Enthusiast</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Teodor</h1>
+  <h3>A passionate DevOps/AWS Cloud Enthusiast</h3>
+</div>
 
-- 🔭 I’m currently working on **different DevOps RealTime Projects**
+<div align="center">
+  <p>🔭 I’m currently working on <strong>different DevOps RealTime Projects</strong></p>
+  <p>👨‍💻 All of my projects are available at <a href="https://github.com/teodor1006" target="_blank">https://github.com/teodor1006</a></p>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/teodor1006](https://github.com/teodor1006)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/teodor-slaveykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teodor-slaveykov" height="30" width="40" /></a>
-</p>
+<div>
+  <h3>Connect with me:</h3>
+  <p>
+    <a href="https://linkedin.com/in/teodor-slaveykov" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teodor-slaveykov" height="30" width="40" />
+    </a>
+  </p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
