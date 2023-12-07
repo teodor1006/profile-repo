@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hi 👋, I'm Teodor</h1>
-  <h3>A passionate DevOps/AWS Cloud Enthusiast</h3>
+  <h3>A passionate DevOps/AWS Cloud Enthusiast | B.Sc. in Computer Science LMU Munich</h3>
 </div>
 
 <div align="center">
-  <p>🔭 I’m currently working on <strong>different DevOps RealTime Projects</strong></p>
+  <p>🔭 I’m currently working on <strong>different DevOps Projects</strong></p>
   <p>👨‍💻 All of my projects are available at <a href="https://github.com/teodor1006" target="_blank">https://github.com/teodor1006</a></p>
   <p>👋 Feel free to reach out to me on <a href="https://linkedin.com/in/teodor-slaveykov" target="_blank">LinkedIn</a>.</p>
 </div>
