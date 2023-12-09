@@ -28,7 +28,10 @@
 </p>
 
 <div style="text-align: center;">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=teodor1006&show_icons=true&locale=en&layout=compact" alt="teodor1006" /></p>
+    <p style="display: inline-block;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teodor1006&show_icons=true&locale=en&layout=compact" alt="teodor1006" />
+    </p>
 </div>
+
 
 
