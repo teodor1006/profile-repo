@@ -27,5 +27,8 @@
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-actions" width="40" height="40"/></a
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teodor1006&show_icons=true&locale=en&layout=compact" alt="teodor1006" /></p>
+<div style="text-align: center;">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=teodor1006&show_icons=true&locale=en&layout=compact" alt="teodor1006" /></p>
+</div>
+
 
