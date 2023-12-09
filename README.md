@@ -29,6 +29,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teodor1006&show_icons=true&locale=en&layout=compact" alt="teodor1006" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teodor1006&show_icons=true&locale=en" alt="teodor1006" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teodor1006&" alt="teodor1006" /></p>
