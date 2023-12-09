@@ -5,7 +5,6 @@
 
 <div align="center">
   <p>🔭 I’m currently working on <strong>different DevOps Projects</strong></p>
-  <p>👨‍💻 All of my projects are available at <a href="https://github.com/teodor1006" target="_blank">https://github.com/teodor1006</a></p>
   <p>👋 Feel free to reach out to me on <a href="https://linkedin.com/in/teodor-slaveykov" target="_blank">LinkedIn</a>.</p>
 </div>
 
