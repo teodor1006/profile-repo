@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <p>🔭 I’m currently working on <strong>different DevOps Projects</strong></p>
+  <p>🔭 I’m currently working on <strong> AWS DevOps/Cloud Engineer Projects </strong></p>
   <p>👋 Feel free to reach out to me on <a href="https://linkedin.com/in/teodor-slaveykov" target="_blank">LinkedIn</a>.</p>
 </div>
 
