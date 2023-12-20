@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Hi 👋, I'm Teodor</h1>
   <h3>A passionate DevOps/AWS Cloud Enthusiast | B.Sc. in Computer Science LMU Munich</h3>
+  <p>Certified AWS Cloud Practitioner</p>
 </div>
+
 
 <div align="center">
   <p>🔭 I’m currently working on <strong>different DevOps Projects</strong></p>
