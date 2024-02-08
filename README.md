@@ -25,6 +25,8 @@
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-actions" width="40" height="40"/></a
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
 </p>
 
 <div style="text-align: center;">
