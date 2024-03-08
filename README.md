@@ -1,13 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Teodor</h1>
-  <h3>A passionate DevOps/AWS Cloud Enthusiast | AWS Certified Solutions Architect - Associate</h3>
-</div>
-
-
-
-<div align="center">
-  <p>🔭 I’m currently working on <strong> AWS DevOps/Cloud Engineer Projects </strong></p>
-  <p>👋 Feel free to reach out to me on <a href="https://linkedin.com/in/teodor-slaveykov" target="_blank">LinkedIn</a>.</p>
+  <h3>A Junior DevOps Engineer| AWS Certified Solutions Architect - Associate</h3>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
