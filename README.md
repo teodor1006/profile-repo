@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Teodor</h1>
-  <h3>A Junior DevOps Engineer| AWS Certified Solutions Architect - Associate</h3>
+  <h3> Junior DevOps Engineer | AWS Certified Solutions Architect - Associate</h3>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
